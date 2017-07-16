@@ -16,6 +16,15 @@ What features?
 * (BUG) BUG IP (Get like instagram,Same as above)
 * (FUN) Anime Music - Download thousands anime songs
 * (FUN) KumpulBagi,AWSubs (soon)
+* (CHECKER) Mybookshow (some not work)
+* (CHECKER) GoJek (Semi Auto)
+* (CHECKER) Blanja (Semi Auto)
+* (CHECKER) StarBucks
+* (CHECKER) Garena (Semi Auto)
+* (CHECKER) PokeHash/PokeKey
+* (CHECKER) My Telkomsel (not work)
+* (CHECKER) Facebook
+* (F8F) Facebook,Instagram (soon)
 * (TOOL) Gmail dot trick
 * (TOOL) Gojek Emulator
 * (TOOL) Proxy Manager
@@ -23,17 +32,8 @@ What features?
 * (TOOL) FakeNameGenerator
 * (TOOL) Enable IE 11 Emulator
 * (TOOL) RSAUtils,PokeMapServer (This tool for me)
-* (TOOL) Instagram,Twitter,Line,HTTP (soon)
-* (CHECKER) Mybookshow
-* (CHECKER) GoJek (Semi Auto)
-* (CHECKER) Blanja (Semi Auto)
-* (CHECKER) StarBucks
-* (CHECKER) Garena (Semi Auto)
-* (CHECKER) PokeHash or PokeKey
-* (CHECKER) My Telkomsel
-* (CHECKER) Spotify,TokoPedia,Facebook (soon)
 
-Before you use
+Before you use!!!
 -------------
 * Install NET 4.0&4.5 https://www.raymond.cc/blog/easily-install-all-versions-of-net-framework-plus-hotfixes-with-aio-runtimes/
 * Upgrade Browser IE 11
