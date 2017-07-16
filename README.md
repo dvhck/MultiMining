@@ -40,6 +40,14 @@ Before you use
 * Recommended use windows 10 last build 16199
 * (RDP User) Allow Internet To Access https://cdnjs.com/ and this app (https://api.siakbary.my.id)
 
+Checker
+-------------
+Please read
+
+https://blog.siakbary.my.id/multimining-pirates
+
+Before you use it!
+
 About this project?
 -------------
 This project for my lesson about c#.
